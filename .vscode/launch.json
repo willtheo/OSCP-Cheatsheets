@@ -1,7 +1,4 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
@@ -11,10 +8,7 @@
             "stopOnEntry": true,
             "pythonPath": "${config:python.pythonPath}",
             "program": "${file}",
-<<<<<<< HEAD
             "args": [3128],
-=======
->>>>>>> 4aae349139072cae78e09bc78fe8fe1aa2c08eb2
             "cwd": "${workspaceFolder}",
             "env": {},
             "envFile": "${workspaceFolder}/.env",
@@ -42,10 +36,7 @@
             "cwd": "",
             "console": "integratedTerminal",
             "env": {},
-<<<<<<< HEAD
             "args": ["3128"],
-=======
->>>>>>> 4aae349139072cae78e09bc78fe8fe1aa2c08eb2
             "envFile": "${workspaceFolder}/.env",
             "debugOptions": []
         },
